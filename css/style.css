@@ -1,0 +1,41 @@
+
+
+form  
+{
+    width: 50%;
+    height: auto;
+    margin: 220px auto;
+}
+
+form h2
+{
+    width: 100%;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Georgia',sans-serif;
+    margin-bottom: 20px;
+}
+
+
+form input[type=text]
+{
+    width: 95%;
+    height: 34px;
+    color: #666;
+    padding-left: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0px 0px 5px;
+}
+
+form button
+{
+    height: 38px;
+    background: #000;
+    color: #fff;
+    font-family: 'Georgia';
+    font-size: 18px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin-left: -57px;
+    cursor: pointer;
+}
